@@ -1,8 +1,9 @@
 .search-box {
-    margin-bottom: 20px;
+    margin-bottom: 250px;
 }
 
 .title {
     margin: 0;
-    margin-bottom: 6px;
+    margin-bottom: 10px;
+    border-radius: 8px;
 }
